@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-fx-converter/static/css/main.47dca652.css",
+    "main.js": "/react-fx-converter/static/js/main.b6b400f3.js",
+    "static/js/787.5c5c941c.chunk.js": "/react-fx-converter/static/js/787.5c5c941c.chunk.js",
+    "index.html": "/react-fx-converter/index.html",
+    "main.47dca652.css.map": "/react-fx-converter/static/css/main.47dca652.css.map",
+    "main.b6b400f3.js.map": "/react-fx-converter/static/js/main.b6b400f3.js.map",
+    "787.5c5c941c.chunk.js.map": "/react-fx-converter/static/js/787.5c5c941c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47dca652.css",
+    "static/js/main.b6b400f3.js"
+  ]
+}
