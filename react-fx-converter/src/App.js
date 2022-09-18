@@ -1,7 +1,8 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Link, Switch } from "react-router-dom";
 import Layout from './Layout';
-
+import Home from './Home';
+import CurrencyConverter from './CurrencyConverter';
 import './App.css';
 
 const NotFound = () => {
@@ -11,13 +12,12 @@ const NotFound = () => {
 const App = () => {
   return (
     <Router basename="/react-fx-converter">
-      <nav className="navbar navbar-expand-lg navbar-light bg-light">
-        <Link className="navbar-brand" to="/">Currency Converter</Link>
-      </nav>
+      <Layout>
       <Switch>
-        <Route path="/" exact component={Layout} />
-        <Route component={NotFound} />
+        <Route path="/" exact component={Home} />
+        <Route render={() => <h1>404 Not Found</h1>} />
       </Switch>
+      </Layout>
     </Router>
   );
 }
