@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-fx-converter/static/css/main.9cee829f.css",
+    "main.js": "/react-fx-converter/static/js/main.a0260bc6.js",
+    "static/js/787.5c5c941c.chunk.js": "/react-fx-converter/static/js/787.5c5c941c.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/react-fx-converter/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/react-fx-converter/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "index.html": "/react-fx-converter/index.html",
+    "main.9cee829f.css.map": "/react-fx-converter/static/css/main.9cee829f.css.map",
+    "main.a0260bc6.js.map": "/react-fx-converter/static/js/main.a0260bc6.js.map",
+    "787.5c5c941c.chunk.js.map": "/react-fx-converter/static/js/787.5c5c941c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cee829f.css",
+    "static/js/main.a0260bc6.js"
+  ]
+}
